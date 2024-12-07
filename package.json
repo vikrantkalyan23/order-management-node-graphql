@@ -1,0 +1,19 @@
+{
+  "name": "order-management-node-graphql",
+  "version": "1.0.0",
+  "description": "Application to manage orders and update user with current status of order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vikrant Kalyan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0",
+    "mongoose": "^8.8.4"
+  }
+}
