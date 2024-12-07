@@ -7,8 +7,10 @@ npm init -y
 
 npm install express graphql express-graphql mongoose dotenv
 
-# express: For server setup.
-# graphql & express-graphql: For handling GraphQL queries.
-# mongoose: For MongoDB interaction.
-# dotenv: For managing environment variables.
+# description
+
+express: For server setup.
+graphql & express-graphql: For handling GraphQL queries.
+mongoose: For MongoDB interaction.
+dotenv: For managing environment variables.
 
