@@ -7,6 +7,8 @@ npm init -y
 
 npm install express graphql express-graphql mongoose dotenv
 
+npm install @apollo/client graphql
+
 # description
 
 express: For server setup.
